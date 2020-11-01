@@ -1,7 +1,7 @@
 # Basic-Arithmetic-Android-app
 This is an Android App used for calculating Basic Arithmetic Operations.
 
-## Frontend 
+## Frontpage 
 ![Frontpage](https://user-images.githubusercontent.com/57526045/97798988-0662d080-1c51-11eb-8ecd-9ab0fc28b6ed.jpeg)
 
 ## ADD Button function
